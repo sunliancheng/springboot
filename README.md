@@ -1,6 +1,6 @@
 # Springboot
 
-[本实例代码位于github：](https://github.com/sunliancheng/springboot)
+[本实例代码位于github：https://github.com/sunliancheng/springboot](https://github.com/sunliancheng/springboot)
 
 ## Springboot 入门
 
