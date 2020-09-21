@@ -1,0 +1,6 @@
+server:
+  port: 80
+
+person:
+  age: 22
+  last-Name: xiaowang
