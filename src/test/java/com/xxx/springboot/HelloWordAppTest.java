@@ -22,6 +22,7 @@ public class HelloWordAppTest extends TestCase {
     @Test
     public void contextLoads() {
         System.out.println(ioc.getBean("helloService"));
+        System.out.println(person);
     }
 
 }
