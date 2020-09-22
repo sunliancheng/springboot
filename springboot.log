@@ -1,0 +1,96 @@
+2020-09-22 16:14:21.431 [main] INFO  com.xxx.springboot.HelloWordAppTest - Starting HelloWordAppTest on MacBook-Pro.local with PID 22809 (started by wangsimin in /Users/wangsimin/Desktop/springboot)
+2020-09-22 16:14:21.433 [main] DEBUG com.xxx.springboot.HelloWordAppTest - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-22 16:14:21.434 [main] INFO  com.xxx.springboot.HelloWordAppTest - No active profile set, falling back to default profiles: default
+2020-09-22 16:14:22.908 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:14:23.222 [main] INFO  com.xxx.springboot.HelloWordAppTest - Started HelloWordAppTest in 2.164 seconds (JVM running for 3.074)
+2020-09-22 16:14:23.250 [main] DEBUG com.xxx.springboot.HelloWordAppTest - this is debug
+2020-09-22 16:14:23.250 [main] INFO  com.xxx.springboot.HelloWordAppTest - this is info
+2020-09-22 16:14:23.250 [main] WARN  com.xxx.springboot.HelloWordAppTest - this is warn
+2020-09-22 16:14:23.250 [main] ERROR com.xxx.springboot.HelloWordAppTest - this is error
+2020-09-22 16:14:23.260 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:28:43.287 [main] INFO  com.xxx.springboot.HelloWordApp - Starting HelloWordApp on MacBook-Pro.local with PID 22999 (/Users/wangsimin/Desktop/springboot/target/classes started by wangsimin in /Users/wangsimin/Desktop/springboot)
+2020-09-22 16:28:43.291 [main] DEBUG com.xxx.springboot.HelloWordApp - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-22 16:28:43.292 [main] INFO  com.xxx.springboot.HelloWordApp - No active profile set, falling back to default profiles: default
+2020-09-22 16:28:44.218 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2020-09-22 16:28:44.228 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-22 16:28:44.228 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-22 16:28:44.303 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-22 16:28:44.303 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 959 ms
+2020-09-22 16:28:44.608 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:28:44.754 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2020-09-22 16:28:44.763 [main] INFO  com.xxx.springboot.HelloWordApp - Started HelloWordApp in 1.88 seconds (JVM running for 2.627)
+2020-09-22 16:29:03.332 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:29:08.771 [main] INFO  com.xxx.springboot.HelloWordAppTest - Starting HelloWordAppTest on MacBook-Pro.local with PID 23007 (started by wangsimin in /Users/wangsimin/Desktop/springboot)
+2020-09-22 16:29:08.772 [main] DEBUG com.xxx.springboot.HelloWordAppTest - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-22 16:29:08.773 [main] INFO  com.xxx.springboot.HelloWordAppTest - No active profile set, falling back to default profiles: default
+2020-09-22 16:29:10.021 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:29:10.439 [main] INFO  com.xxx.springboot.HelloWordAppTest - Started HelloWordAppTest in 2.029 seconds (JVM running for 3.227)
+2020-09-22 16:29:10.473 [main] DEBUG com.xxx.springboot.HelloWordAppTest - this is debug
+2020-09-22 16:29:10.474 [main] INFO  com.xxx.springboot.HelloWordAppTest - this is info
+2020-09-22 16:29:10.474 [main] WARN  com.xxx.springboot.HelloWordAppTest - this is warn
+2020-09-22 16:29:10.474 [main] ERROR com.xxx.springboot.HelloWordAppTest - this is error
+2020-09-22 16:29:10.488 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:31:07.424 [main] INFO  com.xxx.springboot.HelloWordAppTest - Starting HelloWordAppTest on MacBook-Pro.local with PID 23034 (started by wangsimin in /Users/wangsimin/Desktop/springboot)
+2020-09-22 16:31:07.425 [main] DEBUG com.xxx.springboot.HelloWordAppTest - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-22 16:31:07.426 [main] INFO  com.xxx.springboot.HelloWordAppTest - No active profile set, falling back to default profiles: default
+2020-09-22 16:31:09.194 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:31:09.534 [main] INFO  com.xxx.springboot.HelloWordAppTest - Started HelloWordAppTest in 2.761 seconds (JVM running for 3.784)
+2020-09-22 16:31:09.577 [main] DEBUG com.xxx.springboot.HelloWordAppTest - this is debug
+2020-09-22 16:31:09.578 [main] INFO  com.xxx.springboot.HelloWordAppTest - this is info
+2020-09-22 16:31:09.578 [main] WARN  com.xxx.springboot.HelloWordAppTest - this is warn
+2020-09-22 16:31:09.579 [main] ERROR com.xxx.springboot.HelloWordAppTest - this is error
+2020-09-22 16:31:09.593 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:31:38.202 [main] INFO  com.xxx.springboot.HelloWordAppTest - Starting HelloWordAppTest on MacBook-Pro.local with PID 23043 (started by wangsimin in /Users/wangsimin/Desktop/springboot)
+2020-09-22 16:31:38.203 [main] DEBUG com.xxx.springboot.HelloWordAppTest - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-22 16:31:38.204 [main] INFO  com.xxx.springboot.HelloWordAppTest - No active profile set, falling back to default profiles: default
+2020-09-22 16:31:39.449 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:31:39.929 [main] INFO  com.xxx.springboot.HelloWordAppTest - Started HelloWordAppTest in 2.087 seconds (JVM running for 2.981)
+2020-09-22 16:31:39.982 [main] DEBUG com.xxx.springboot.HelloWordAppTest - this is debug
+2020-09-22 16:31:39.983 [main] INFO  com.xxx.springboot.HelloWordAppTest - this is info
+2020-09-22 16:31:39.983 [main] WARN  com.xxx.springboot.HelloWordAppTest - this is warn
+2020-09-22 16:31:39.983 [main] ERROR com.xxx.springboot.HelloWordAppTest - this is error
+2020-09-22 16:31:39.998 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:33:30.563 [main] INFO  com.xxx.springboot.HelloWordAppTest - Starting HelloWordAppTest on MacBook-Pro.local with PID 23065 (started by wangsimin in /Users/wangsimin/Desktop/springboot)
+2020-09-22 16:33:30.564 [main] DEBUG com.xxx.springboot.HelloWordAppTest - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-22 16:33:30.565 [main] INFO  com.xxx.springboot.HelloWordAppTest - No active profile set, falling back to default profiles: default
+2020-09-22 16:33:31.876 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:33:32.267 [main] INFO  com.xxx.springboot.HelloWordAppTest - Started HelloWordAppTest in 2.145 seconds (JVM running for 3.155)
+2020-09-22 16:33:32.301 [main] DEBUG com.xxx.springboot.HelloWordAppTest - this is debug
+2020-09-22 16:33:32.302 [main] INFO  com.xxx.springboot.HelloWordAppTest - this is info
+2020-09-22 16:33:32.302 [main] WARN  com.xxx.springboot.HelloWordAppTest - this is warn
+2020-09-22 16:33:32.302 [main] ERROR com.xxx.springboot.HelloWordAppTest - this is error
+2020-09-22 16:33:32.312 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:36:00.179 [main] INFO  com.xxx.springboot.HelloWordAppTest - Starting HelloWordAppTest on MacBook-Pro.local with PID 23101 (started by wangsimin in /Users/wangsimin/Desktop/springboot)
+2020-09-22 16:36:00.181 [main] DEBUG com.xxx.springboot.HelloWordAppTest - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-22 16:36:00.182 [main] INFO  com.xxx.springboot.HelloWordAppTest - No active profile set, falling back to default profiles: default
+2020-09-22 16:36:01.534 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:36:01.855 [main] INFO  com.xxx.springboot.HelloWordAppTest - Started HelloWordAppTest in 2.272 seconds (JVM running for 3.534)
+2020-09-22 16:36:01.887 [main] DEBUG com.xxx.springboot.HelloWordAppTest - this is debug
+2020-09-22 16:36:01.888 [main] INFO  com.xxx.springboot.HelloWordAppTest - this is info
+2020-09-22 16:36:01.888 [main] WARN  com.xxx.springboot.HelloWordAppTest - this is warn
+2020-09-22 16:36:01.888 [main] ERROR com.xxx.springboot.HelloWordAppTest - this is error
+2020-09-22 16:36:01.897 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:36:13.674 [main] INFO  com.xxx.springboot.HelloWordApp - Starting HelloWordApp on MacBook-Pro.local with PID 23109 (/Users/wangsimin/Desktop/springboot/target/classes started by wangsimin in /Users/wangsimin/Desktop/springboot)
+2020-09-22 16:36:13.678 [main] DEBUG com.xxx.springboot.HelloWordApp - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-22 16:36:13.679 [main] INFO  com.xxx.springboot.HelloWordApp - No active profile set, falling back to default profiles: default
+2020-09-22 16:36:14.391 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2020-09-22 16:36:14.400 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-22 16:36:14.400 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-22 16:36:14.470 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-22 16:36:14.471 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 755 ms
+2020-09-22 16:36:14.712 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:36:14.879 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2020-09-22 16:36:14.894 [main] INFO  com.xxx.springboot.HelloWordApp - Started HelloWordApp in 1.691 seconds (JVM running for 2.414)
+2020-09-22 16:36:48.945 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:36:51.698 [main] INFO  com.xxx.springboot.HelloWordApp - Starting HelloWordApp on MacBook-Pro.local with PID 23118 (/Users/wangsimin/Desktop/springboot/target/classes started by wangsimin in /Users/wangsimin/Desktop/springboot)
+2020-09-22 16:36:51.700 [main] DEBUG com.xxx.springboot.HelloWordApp - Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-09-22 16:36:51.701 [main] INFO  com.xxx.springboot.HelloWordApp - No active profile set, falling back to default profiles: default
+2020-09-22 16:36:52.391 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+2020-09-22 16:36:52.399 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-09-22 16:36:52.399 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-22 16:36:52.448 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-09-22 16:36:52.449 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 704 ms
+2020-09-22 16:36:52.667 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-22 16:36:52.798 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+2020-09-22 16:36:52.808 [main] INFO  com.xxx.springboot.HelloWordApp - Started HelloWordApp in 1.506 seconds (JVM running for 2.17)
+2020-09-22 16:36:59.432 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

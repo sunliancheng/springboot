@@ -3,19 +3,22 @@ server:
 person:
   age: 22
   last-Name: xiaowang
-spring:
-  profiles:
-    active: prod
 
----
-server:
-  port: 82
-spring:
-  profiles:
-    active: dev
----
-server:
-  port: 84
-spring:
-  profiles:
-    active: prod
+
+
+#spring:
+#  profiles:
+#    active: prod
+
+#---
+#server:
+#  port: 82
+#spring:
+#  profiles:
+#    active: dev
+#---
+#server:
+#  port: 84
+#spring:
+#  profiles:
+#    active: prod
