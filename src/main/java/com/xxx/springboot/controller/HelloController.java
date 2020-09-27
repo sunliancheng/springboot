@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @ResponseBody 放到这个类上，表明这个类所有方法都注解此
+ * @ResponseBody 将java对象转为json格式的数据，写入response body区
  * @ResponseBody和@Controller可以合并成@RestController
  */
 
