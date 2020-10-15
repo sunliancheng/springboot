@@ -5,6 +5,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.HashMap;
+
 @Controller
 public class ThymeleafController {
 
@@ -14,7 +16,8 @@ public class ThymeleafController {
      * @return
      */
     @RequestMapping("/themeleaf")
-    public String success() {
+    public String success(HashMap<String, Object> map) {
+        map.put("Hello", "nihao");
         return "success";
     }
 
